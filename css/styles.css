@@ -1,0 +1,47 @@
+
+     body{
+       background-color: #EAF6F6;
+
+     }
+
+     hr{
+
+         border-style: none;
+         border-top-style: dotted;
+         border-color: grey;
+         border-width: 5px;
+
+         width:5%;
+     }
+
+    h1{
+
+   color:#66BFBF;
+
+    }
+
+    h2{
+
+    color:#66BFBF;
+
+    }
+
+   img{
+
+     border-radius: 100%;
+     
+
+   }
+
+   .myCss:hover{
+
+     color:#16697A;
+     width:16%;
+   }
+
+   .mycolor{
+     color:#16697A;
+
+     font-style: oblique;
+
+   }
